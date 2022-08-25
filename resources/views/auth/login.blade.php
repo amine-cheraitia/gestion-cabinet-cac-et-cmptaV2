@@ -3,7 +3,7 @@
 @section('content')
 <div class="container  bg-dark">
     <div class="row justify-content-center">
-        <div class="col-md-5">
+        <div class="col-md-8 col-lg-6 col-xl-5 col-xxl-5 ">
             <div class="card  rounded-3" id="log">
                 <div class="card-header" style="text-align: center"><i class="fas fa-user-circle"></i> Authentification
                 </div>
